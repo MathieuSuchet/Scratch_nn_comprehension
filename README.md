@@ -1,5 +1,5 @@
 # Scratch_nn_comprehension
-A repo made to understand neural networks from scratch + gymanisum use
+A repo made to understand neural networks from scratch + gymnasium use
 
 ## Authors 
 Mathieu Suchet
